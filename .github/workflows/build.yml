@@ -19,5 +19,5 @@ jobs:
           registry: docker.pkg.github.com
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: worldskills/worldskills-api
+          repository: worldskills/worldskills-api/api
           tag_with_ref: true
