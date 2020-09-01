@@ -2,7 +2,7 @@
 version: "3.7"
 services:
 
-  api-proxy:
+  api_proxy:
     build: .
     ports:
       - "8080:80"
