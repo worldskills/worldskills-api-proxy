@@ -4,5 +4,6 @@ services:
 
   api_proxy:
     build: .
+    image: ghcr.io/worldskills/api-proxy
     ports:
       - "8080:80"
