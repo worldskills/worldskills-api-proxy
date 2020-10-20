@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.18
 
 LABEL org.opencontainers.image.source https://github.com/worldskills/worldskills-api-proxy
 
