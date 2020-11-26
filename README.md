@@ -1,3 +1,3 @@
 ```
-docker-compose -p worldskills up
+docker-compose up
 ```
